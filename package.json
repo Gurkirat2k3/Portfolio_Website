@@ -1,0 +1,28 @@
+{
+  "name": "gurkirat-ultra-elite-portfolio",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.100.0",
+    "@react-three/fiber": "^8.15.16",
+    "@studio-freight/lenis": "^1.0.42",
+    "framer-motion": "^10.16.4",
+    "lenis": "^1.0.26",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.0",
+    "vite": "^7.3.1"
+  }
+}
